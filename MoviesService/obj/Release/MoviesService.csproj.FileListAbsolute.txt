@@ -1,0 +1,11 @@
+C:\Users\kevin\source\repos\MoviesService\MoviesService\bin\Release\MoviesService.dll.config
+C:\Users\kevin\source\repos\MoviesService\MoviesService\bin\Release\MoviesService.dll
+C:\Users\kevin\source\repos\MoviesService\MoviesService\bin\Release\MoviesService.pdb
+C:\Users\kevin\source\repos\MoviesService\MoviesService\bin\Release\EntityFramework.dll
+C:\Users\kevin\source\repos\MoviesService\MoviesService\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\kevin\source\repos\MoviesService\MoviesService\bin\Release\EntityFramework.xml
+C:\Users\kevin\source\repos\MoviesService\MoviesService\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\kevin\source\repos\MoviesService\MoviesService\obj\Release\MoviesService.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\MoviesService\MoviesService\obj\Release\MoviesService.csproj.CopyComplete
+C:\Users\kevin\source\repos\MoviesService\MoviesService\obj\Release\MoviesService.dll
+C:\Users\kevin\source\repos\MoviesService\MoviesService\obj\Release\MoviesService.pdb

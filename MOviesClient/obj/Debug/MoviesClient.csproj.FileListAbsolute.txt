@@ -1,0 +1,10 @@
+C:\Users\kevin\source\repos\MoviesService\MOviesClient\obj\Debug\MoviesClient.csprojAssemblyReference.cache
+C:\Users\kevin\source\repos\MoviesService\MOviesClient\obj\Debug\MoviesClient.Form1.resources
+C:\Users\kevin\source\repos\MoviesService\MOviesClient\obj\Debug\MOviesClient.Properties.Resources.resources
+C:\Users\kevin\source\repos\MoviesService\MOviesClient\obj\Debug\MoviesClient.csproj.GenerateResource.cache
+C:\Users\kevin\source\repos\MoviesService\MOviesClient\obj\Debug\MoviesClient.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\MoviesService\MOviesClient\bin\Debug\MOviesClient.exe.config
+C:\Users\kevin\source\repos\MoviesService\MOviesClient\bin\Debug\MOviesClient.exe
+C:\Users\kevin\source\repos\MoviesService\MOviesClient\bin\Debug\MOviesClient.pdb
+C:\Users\kevin\source\repos\MoviesService\MOviesClient\obj\Debug\MOviesClient.exe
+C:\Users\kevin\source\repos\MoviesService\MOviesClient\obj\Debug\MOviesClient.pdb

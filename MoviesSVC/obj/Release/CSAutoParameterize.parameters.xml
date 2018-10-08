@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="MoviesEntitie-Web.config Connection String" description="MoviesEntitie Connection String used in web.config by the application to access the database." defaultValue="metadata=res://*/MoviesEntities.csdl|res://*/MoviesEntities.ssdl|res://*/MoviesEntities.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=(localdb)\MSSQLLocaldb;initial catalog=Movies;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\kevin\\source\\repos\\MoviesService\\MoviesSVC\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='MoviesEntitie']/@connectionString" />
+  </parameter>
+</parameters>

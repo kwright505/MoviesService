@@ -1,0 +1,15 @@
+C:\Users\kevin\source\repos\MoviesService\MoviesSVC\bin\MoviesSVC.dll.config
+C:\Users\kevin\source\repos\MoviesService\MoviesSVC\bin\MoviesSVC.dll
+C:\Users\kevin\source\repos\MoviesService\MoviesSVC\bin\MoviesSVC.pdb
+C:\Users\kevin\source\repos\MoviesService\MoviesSVC\bin\MoviesService.dll
+C:\Users\kevin\source\repos\MoviesService\MoviesSVC\bin\EntityFramework.dll
+C:\Users\kevin\source\repos\MoviesService\MoviesSVC\bin\MoviesService.pdb
+C:\Users\kevin\source\repos\MoviesService\MoviesSVC\bin\MoviesService.dll.config
+C:\Users\kevin\source\repos\MoviesService\MoviesSVC\bin\EntityFramework.xml
+C:\Users\kevin\source\repos\MoviesService\MoviesSVC\obj\Debug\MoviesSVC.csprojAssemblyReference.cache
+C:\Users\kevin\source\repos\MoviesService\MoviesSVC\obj\Debug\MoviesSVC.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\MoviesService\MoviesSVC\obj\Debug\MoviesSVC.csproj.CopyComplete
+C:\Users\kevin\source\repos\MoviesService\MoviesSVC\obj\Debug\MoviesSVC.dll
+C:\Users\kevin\source\repos\MoviesService\MoviesSVC\obj\Debug\MoviesSVC.pdb
+C:\Users\kevin\source\repos\MoviesService\MoviesSVC\bin\EntityFramework.SqlServer.dll
+C:\Users\kevin\source\repos\MoviesService\MoviesSVC\bin\EntityFramework.SqlServer.xml
